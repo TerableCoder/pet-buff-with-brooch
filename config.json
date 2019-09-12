@@ -1,0 +1,8 @@
+{
+	"version": 2,
+	"data": {
+		"enabled": true,
+		"recast": true,
+		"broochIDs": [51011, 51028, 51029, 51030, 98406, 98661, 98662]
+	}
+}

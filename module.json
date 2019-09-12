@@ -1,0 +1,15 @@
+{
+    "disableAutoUpdate": false,
+    "name": "pet-buff-with-brooch",
+    "author": "teralove / TerableCoder",
+    "description": "Activates [Bracing Force] when brooch is used. With recast option.",
+    "version": "6/18/2019",
+    "options": {
+        "niceName": "Pet Buff with Brooch",
+        "settingsVersion": 2,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js"    
+    },
+    "servers": ["https://raw.githubusercontent.com/TerableCoder/pet-buff-with-brooch/master/"],
+    "supportUrl": "https://github.com/TerableCoder/pet-buff-with-brooch/issues"
+}
