@@ -4,7 +4,7 @@
         "overwrite": false,
         "hash": "fce35dcd949ef176b0620061cba552035d6cddc4afb563770ccb6263f6349362"
     },
-    "index.js": "080fd471d2b6638c03d5feb695d7d022e909df47885a3c8e345c401300d01265",
+    "index.js": "f43d90ec5724158f8a6ee6d818815ab0471674ffc118952412e627b01f3e3359",
     "module.json": "19fd5fcfb07a29039da0b1538c55aac14cef56349cb757086d511cb102abaf3d",
     "README.MD": "36fed9d1b1c5180e20fd1b49bd073975e060da79874a1285d7a0ecd815a64312",
     "settings_migrator.js": "a63d3486fd0275491b1c7715d3a43ff85256f0e26a75156c4d074de4e30e7077",
@@ -16,6 +16,6 @@
     "C_START_SERVANT_ACTIVE_SKILL": 1,
     "C_USE_ITEM": 3,
     "S_REQUEST_DESPAWN_SERVANT": 1,
-    "S_REQUEST_SPAWN_SERVANT": 1
+    "S_REQUEST_SPAWN_SERVANT": 3
   }
 }

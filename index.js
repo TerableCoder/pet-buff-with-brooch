@@ -25,7 +25,7 @@ module.exports = function PetBuffWithBrooch(mod){
 	loo 	1004 	1005 	1006
 	kuncun 	1007 	1008 	1009
 	cocomin	1000/1010 1011 	1012*/
-	mod.hook('S_REQUEST_SPAWN_SERVANT', 1, (event) => {
+	mod.hook('S_REQUEST_SPAWN_SERVANT', 3, (event) => {
 		if(mod.game.me.is(event.ownerId)){
 			petInfo = event;
 			let power = 0;
